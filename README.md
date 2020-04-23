@@ -1,1 +1,2 @@
-# bot-terms-conditions
+# Pricing
+# Hosting
